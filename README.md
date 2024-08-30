@@ -1,13 +1,13 @@
 # Discord bot for SkyBlock graph
 <a href="https://www.python.org/downloads/release/python-3110/"><img src="https://img.shields.io/badge/python-3.11.0-success?style=for-the-badge&logo=python&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/Last%20update-17.03.2023-blue?style=for-the-badge"></img>
-<a href="https://github.com/TachLaif/Discord-bot-for-SkyBlock-graph/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TachLaif/Discord-bot-for-SkyBlock-graph?style=for-the-badge"></img></a>
+<a href="https://github.com/BenjaminHupf/Discord-bot-for-SkyBlock-graph/blob/main/LICENSE"><img src="https://img.shields.io/github/license/BenjaminHupf/Discord-bot-for-SkyBlock-graph?style=for-the-badge"></img></a>
 
 ## Description
 
 Optional program which uses my Bank graph for Hypixel Skyblock program and connects it to a Discord bot which sends the graph to you when you type a command.
 
-**This repository requires the <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a> in order to work!** 
+**This repository requires the <a href="https://github.com/BenjaminHupf/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a> in order to work!** 
 
 ## Table of Contents
 - <a href="#description">Description</a>
@@ -27,7 +27,7 @@ Optional program which uses my Bank graph for Hypixel Skyblock program and conne
 - <a href="https://pypi.org/project/discord.py/">discord.py</a>
 - <a href="https://pypi.org/project/python-dotenv/">dotenv</a>
 - os
-- <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a>
+- <a href="https://github.com/BenjaminHupf/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a>
 - Discord Bot Token
 
 ### Installing the libraries
@@ -44,11 +44,11 @@ You can also install them with __requirements.txt__.
 
 ### Installing the required repositories
 
-**Download and install <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a> (Installation instructions are in the linked repository).** 
+**Download and install <a href="https://github.com/BenjaminHupf/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a> (Installation instructions are in the linked repository).** 
 
 Then download this repository as a .zip file and unzip it to a folder.
 
-Copy and paste __discordBot.py__ and __.env__ in the folder you extracted while you installed <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a>.
+Copy and paste __discordBot.py__ and __.env__ in the folder you extracted while you installed <a href="https://github.com/BenjaminHupf/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel SkyBlock</a>.
 
 Your folder structure now should look like this:
 
@@ -195,7 +195,7 @@ Program tested with **Python 3.11.0**.
 
 ## License and credits
 
-This work is made available under the **<a href="https://github.com/TachLaif/wahl-o-selfie-v2/blob/main/LICENSE">GNU Affero General Public License v3.0</a>**.
+This work is made available under the **<a href="https://github.com/BenjaminHupf/wahl-o-selfie-v2/blob/main/LICENSE">GNU Affero General Public License v3.0</a>**.
 
-Project made by **<a href="https://github.com/TachLaif">Benjamin Hupf</a>**.
+Project made by **<a href="https://github.com/BenjaminHupf">Benjamin Hupf</a>**.
 <br><br><a href="https://twitter.com/BenjaminHupf"><img src="https://img.shields.io/badge/Twitter-@BenjaminHupf-informational?style=for-the-badge&logo=twitter&logoColor=white"></a>
