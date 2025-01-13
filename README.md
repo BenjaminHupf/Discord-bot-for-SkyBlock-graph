@@ -198,4 +198,3 @@ Program tested with **Python 3.11.0**.
 This work is made available under the **<a href="https://github.com/BenjaminHupf/wahl-o-selfie-v2/blob/main/LICENSE">GNU Affero General Public License v3.0</a>**.
 
 Project made by **<a href="https://github.com/BenjaminHupf">Benjamin Hupf</a>**.
-<br><br><a href="https://twitter.com/BenjaminHupf"><img src="https://img.shields.io/badge/Twitter-@BenjaminHupf-informational?style=for-the-badge&logo=twitter&logoColor=white"></a>
